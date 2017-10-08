@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'abernix:minifier-js',
+  name: 'scottdonaldau:minifier-js',
   summary: "JavaScript minifier",
   version: "2.1.0"
 });
